@@ -9,5 +9,7 @@
     <div align='center'>
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Urei&layout=compact'></img>
     </div>
+    
+    ### :writing_hand: Blog Posts :
   </body>
 </html>
